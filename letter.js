@@ -1,9 +1,9 @@
-function letter (){
-//use if else to compare user input to randomword
-//if guess is different than randomword =false
-//else 
-
-
+function letter (value) {
+    this.letter = value;
+    this.guessed = false;
+    this.toString = function() {
+        
+    }
 
 
 }

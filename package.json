@@ -1,0 +1,20 @@
+{
+  "name": "constructorwordgame",
+  "version": "1.0.0",
+  "description": "assignment due 4/15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaAmos/constructorwordgame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaAmos/constructorwordgame/issues"
+  },
+  "homepage": "https://github.com/AmandaAmos/constructorwordgame#readme"
+}
